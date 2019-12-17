@@ -123,7 +123,7 @@ python3 main.py  ./data/character_all_data.csv -box -x morph_SVL
 
 __Feature to Play with:__ Display the quantile when mouse closer to the box in HTML page
 
-![boxplot](/Users/yuxing/PycharmProjects/interactive_data/visulizations/boxplot.jpg)
+![boxplot](./visulizations/boxplot.jpg)
 
 
 

@@ -6,7 +6,7 @@ Before you begin, please install the latest python and pip software. If you have
 
 - [Download Python | Python.org](https://www.python.org/downloads/) and pip.
 - Chrome Browser
-
+- git clone this project
 - In your terminal, please do `pip3 install -r requirement.txt  ` to install all the external libraries in a easy way.
 - Make sure your terminal currently in local directory.
 

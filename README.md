@@ -85,7 +85,7 @@ python3 main.py  ./data/character_all_data.csv -correlations -attributes morph_S
 >python3 main.py   +(data_path) -correlations -attributes +attributes_list_in_data's_columns
 
 __Selected attributes in sample:__ morph_SVL, trunk_length, trunk_width
-
+__Notice__: attributes are seperated by space !
 __Feature to play with:__
 
 - Interactive Zoom in data points area
